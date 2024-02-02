@@ -5,6 +5,7 @@ function breakStatement(num) {
   // la ejecución y retornar el string: "Se interrumpió la ejecución".
   // PISTA: Utiliza el statement 'break'.
   // Tu código:
+  return "No se entiende el enunciado.."
 }
-
+console.log(breakStatement())
 module.exports = breakStatement;
